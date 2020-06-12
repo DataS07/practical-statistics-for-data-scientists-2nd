@@ -2,7 +2,7 @@
 
 50 essential concepts 
 
-Peter Bruce & Andrew Bruce 
+Peter Bruce, Andrew Bruce, and Peter Gedeck
 
 1. Exploratory data analysis
 
